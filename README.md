@@ -1,20 +1,27 @@
-## Hii there!! Bem vindo.
-<div style="display:block;" align="center"><br>
-<h3>Redes Sociais</h3>
-   <a href="https://www.instagram.com/thaispaes.jar/"><img align="center" alt="..." width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/thais-paes-9673651a0/"><img align="center" alt="..." width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <div/>
-<br>
+## Hii there!! Bem vindo. 👩🏻‍💻
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thaispaes.jar/)](https://www.instagram.com/thaispaes.jar/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-paes-9673651a0/)](https://www.linkedin.com/in/thais-paes-9673651a0/)
 
-<div align="center">
+<div style="display:block;" align="left"><br>
+   <a> Me chamo <strong>Thais Regina</strong> sou estudante na Faculdade Senac onde faço o curso de <strong>Analise e Desenvolvimento de Sistemas</strong>, atualmente trabalho na <strong>Accenture do Brasil</strong> como Analista de Testes </a>
+   <br><br>
+   <div>
+   🔭 Atualmente estou focada em Python e Banco de dados<br>
+   📫 <strong>Como entrar em contato</strong>: pode me contatar no linkedln acima<br>
+<br>
+<br>
+<br>
+<div align="left">
   <a href="https://github.com/thaispaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaispaes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispaes&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=thaispaes&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispaes&layout=compact&langs_count=7&theme=discord_old_blurple&hide_border=false"/>
 </a>
 </div>
  
-<div style="display: inline_block;" align="center">
+
+<div style="display: inline_block;" align="left">
 <br>
+  <h3> Tecnologias conhecidas </h3>
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=8d18ec">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=8d18ec">
   <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,7 +33,14 @@
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+   <br>
+   <h3> Sistemas que trabalho atualmente</h3>
+  <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+  <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg">
+  <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
+   
 </div>
 <br>
 
