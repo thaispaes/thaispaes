@@ -6,7 +6,7 @@
    <a> Me chamo <strong>Thais Regina</strong> sou estudante na Faculdade Senac onde faço o curso de <strong>Analise e Desenvolvimento de Sistemas</strong>, atualmente trabalho na <strong>Accenture do Brasil</strong> como Analista de Testes </a>
    <br><br>
    <div>
-   🔭 Atualmente estou focada em Python e Banco de dados<br>
+   🔭 Atualmente estou focada em Automação e QA<br>
    📫 <strong>Como entrar em contato</strong>: pode me contatar no linkedln acima<br>
 <br>
 <br>
