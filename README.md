@@ -7,6 +7,7 @@
    <br><br>
    <div>
    🔭 Atualmente estou focada em Automação e QA<br>
+   💻 Também tenho estudado front-end para uns projetos particulares
    📫 <strong>Como entrar em contato</strong>: pode me contatar no linkedln acima<br>
 <br>
 <br>
@@ -22,24 +23,29 @@
 <div style="display: inline_block;" align="left">
 <br>
   <h3> Tecnologias conhecidas </h3>
+  <h5> Programação <h5>
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=8d18ec">
-  <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=8d18ec">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+   <br>
+   <h5> Tecnologias de QA </h5>
    <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
+   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
+     
    <br>
    <h3> Sistemas que trabalho atualmente</h3>
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg">
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
-  <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=8d18ec">
+  <img align="center" alt="..." height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
    
 </div>
 <br>
