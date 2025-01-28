@@ -1,5 +1,4 @@
-## Hii there!! Bem vindo. 👩🏻‍💻
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thaispaes.jar/)](https://www.instagram.com/thaispaes.jar/)
+## Hii there!!  👩🏻‍💻
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-paes-9673651a0/)](https://www.linkedin.com/in/thais-paes-9673651a0/)
 
 <div style="display:block;" align="left"><br>
@@ -22,8 +21,8 @@
 
 <div style="display: inline_block;" align="left">
 <br>
-  <h3> Tecnologias conhecidas </h3>
-  <h5> Programação <h5>
+  <h3>Technologies </h3>
+  <h5> Programming <h5>
  
   <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -37,13 +36,13 @@
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="..." height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=8d18ec">
    <br>
-   <h5> Tecnologias de QA </h5>
+   <h5> Quality and Tests skills </h5>
    <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
    <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
    <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
      
    <br>
-   <h3> Sistemas que trabalho atualmente</h3>
+   <h3> What i used in work </h3>
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg">
   <img align="center" alt="..." height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
