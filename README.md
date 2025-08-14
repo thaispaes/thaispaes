@@ -6,7 +6,7 @@
    <br><br>
    <div>
    🔭 Atualmente estou focada em Automação para a área de QA<br>
-   💻 Também tenho estudado front-end para uns projetos particulares<br>
+   💻 Também tenho estudado front-end para uns projetos particulares e estou me especializando na área através do BFD (Bolsa Futuro Digital)<br>
    📫 <strong>Como entrar em contato</strong>: pode me contatar no linkedln acima<br>
 <br>
 <br>
